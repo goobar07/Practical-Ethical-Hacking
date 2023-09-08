@@ -86,4 +86,40 @@ Challenge (To install owasp amass)
 
 - [httprobe](https://github.com/tomnomnom/httprobe) {Used to check if a perticular sub-domain exists or not}
 
+## 08 September 2023
 
+## Identifying Website Technologies
+
+- [Builtwith](https://builtwith.com/)
+
+- [Wappalyzer Extension](https://www.wappalyzer.com/)
+
+- [Whatweb](`sudo apt install whatweb`)
+
+## Information Gathering using BurpSuite
+
+Learned how to use burp suite with firefox to look into what is happing while loading the website.
+
+- [BurpSuite]
+
+- [Firefox with Proxy]
+
+## Information Gathering with Google
+
+- [Google Operators](https://ahrefs.com/blog/google-advanced-search-operators/)
+
+## Information Gathering using Social Media's
+
+Images are the best way to look for a information to find Badge Images, Desk Images and People Image etc.
+
+LinkedIn is a great tool to find about the people work in organization they maybe realted to our target.
+
+Using related hashtags to find information about our target.
+
+- [LinkedIn]
+
+- [X]
+
+- [Instagram]
+
+- [FaceBook]
