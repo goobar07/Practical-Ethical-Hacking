@@ -8,3 +8,9 @@ Information Disclosure - server headers disclose version information
 mod_ssl/2.8.4 - mod_ssl 2.8.7 and lower are vulnerable to a remote buffer overflow which may allow a remote shell.
 
 Webalizer Version 2.01 - http://192.168.169.129/usage/usage_202309.html
+
+SMB
+Unix (Samba 2.2.1a)
+
+SSH
+OpenSSH 2.9p2
